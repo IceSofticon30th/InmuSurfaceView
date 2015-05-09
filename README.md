@@ -1,2 +1,3 @@
 # InmuSurfaceView
-AndroidでSurfaceViewを使うためのひな形的なもの
+AndroidでSurfaceViewを使うためのひな形的なものです。
+パッケージ名やクラス名、ファイル名は適宜変えてください
