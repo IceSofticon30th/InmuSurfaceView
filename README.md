@@ -1,0 +1,2 @@
+# InmuSurfaceView
+AndroidでSurfaceViewを使うためのひな形的なもの
